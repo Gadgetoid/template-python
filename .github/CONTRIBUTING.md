@@ -22,7 +22,7 @@ When suggesting a feature, make sure to:
 
 If you're having trouble with our code/libraries/products on your Raspberry Pi try asking on our forums (https://forums.pimoroni.com) or Discord (https://discord.gg/hr93ByC).
 
-IIf all else falis then please raise an Issue to let us know. Be as detailed as possible, and be ready to answer questions when we get back to you. Make sure you:
+If all else fails then please raise an Issue to let us know. Be as detailed as possible, and be ready to answer questions when we get back to you. Make sure you:
 
 * Tell us your model of Raspberry Pi
 * Tell us which OS you're using: `lsb_release -d`
