@@ -37,7 +37,7 @@ We have a diagnostic script: `curl get.pimoroni.com/diagnostic | bash` to help y
 
 If you've decided to fix a bug, even something as small as a single-letter typo then great! Anything that improves the code/documentation for all future users is warmly welcomed.
 
-If you decide to work on a  requested feature it's best to let us (and everyone else) know what you're working on to avoid any duplciation of effort. You can do this by replying to the original Issue for the request.
+If you decide to work on a  requested feature it's best to let us (and everyone else) know what you're working on to avoid any duplication of effort. You can do this by replying to the original Issue for the request.
 
 If you want to contribute an example; go for it! We might not always be able to accept your code, but there's a lot to be learned from trying anyway and if you're new to GitHub we're willing to guide you on that journey.
 
@@ -83,7 +83,7 @@ We typically use the MIT license; which permits Commercial Use, Modification, Di
 
 You can learn more about the MIT license at Wikipedia: https://en.wikipedia.org/wiki/MIT_License
 
-### Subitting your code
+### Submitting your code
 
 Once you're ready to share your contribution with us you should submit it as a Pull Request.
 
